@@ -5,7 +5,7 @@ Download Prometheus - https://prometheus.io/download/
 
 Copy the file in your working directory.
 
-Extract the file - tar xvfz <file-name> (I am using mac, you can change the commands based on your OS)
+Extract the file - tar xvfz 'file-name' (I am using mac, you can change the commands based on your OS)
   
 cd 'folder name'
   
