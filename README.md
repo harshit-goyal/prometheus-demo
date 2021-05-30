@@ -7,7 +7,7 @@ Copy the file in your working directory.
 
 Extract the file - tar xvfz <file-name> (I am using mac, you can change the commands based on your OS)
   
-cd <extracted folder>
+cd 'folder name'
   
 Start the server - ./prometheus
 
